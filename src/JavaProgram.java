@@ -14,7 +14,7 @@ public class JavaProgram {
 
     public static  void main(String[] args) throws Exception {
                 int i = 1;
-                while (i<5){
+                while (i<6){
                     processor("test/test_"+i+".java",""+i);
                     i++;
                 }
