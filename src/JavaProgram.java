@@ -26,7 +26,7 @@ public class JavaProgram {
     /**
 	 * {@inheritDoc}
 	 *
-	 * <p>PARSING SOURCE TO TOKEN AND GENERATE THE PARSING TREE</p>
+	 * <p>Parsing source to token and generate the parsing tree</p>
      * @param input CharStream
      * 
 	 */
