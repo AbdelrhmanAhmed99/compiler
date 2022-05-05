@@ -2,21 +2,22 @@ package test;
 
 public class test_4 {
     public static void main(String[] args) {
-        int i = 15;
 
-        switch (i){
-            case 5:
-                System.out.println(i+10);
-                break;
-            case 10:
-                System.out.println(i+5);
-                break;
-            case 15:
-                ;
-            default:
-                ;
+        int number = 0;
+
+        // checks if number is greater than 0
+        if (number > 0) {
+            System.out.println("The number is positive.");
         }
 
+        // checks if number is less than 0
+        else if (number < 0) {
+            System.out.println("The number is negative.");
+        }
 
+        // if both condition is false
+        else {
+            System.out.println("The number is 0.");
+        }
     }
 }
