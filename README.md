@@ -4,7 +4,7 @@ Build a dynamic code analyzer for Java Language to generate statement and branch
 # Collaborators:
 1-mostafa ramzy 2- mostafa abobakr 3-abdelrhman ahmed mansour 4- muhammed ezzat 
 
-# Dependancies:
+# Dependencies:
 This project requires:
 
 IntelliJ IDEA: https://www.jetbrains.com/idea/download/#section=windows
